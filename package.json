@@ -1,0 +1,16 @@
+{
+  "name": "terra-project",
+  "version": "1.0.0",
+  "description": "terra-blockchain",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@terra-money/terra.js": "^3.1.10",
+    "dotenv": "^17.2.1"
+  }
+}
